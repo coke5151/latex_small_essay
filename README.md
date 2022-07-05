@@ -126,7 +126,6 @@
 \caption{在這裡輸入你的圖說}
 \includegraphics[width=0.8\textwidth]{test1.jpg}\\[0.5cm]
 %這裡可以調整相對於 minipage 圖片的比例
-
 資料來源：
 \label{fig.1}
 \end{minipage}
